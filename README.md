@@ -102,16 +102,6 @@
       6. 本软件不提供技术支持，对因用户使用本软件而造成的任何直接或间接损失，包括但不限于财产损失、数据丢失及其他形式的损失不承担任何责任。
 </details>
 
-*** 
-
-#### 赞助商的广告
-
-[推荐使用OK加速器  优惠码:clash](https://zhuri.cc/auth/register?code=6666)
-
-购买小火箭、圈X、Google voice👉[神马杂货铺](https://googlevoice.top/)
-
-快速使用 ChatGPT：[chat1.woaiai.cc](https://chat1.woaiai.cc/)
-
 ***
 ### 快速导航
 [前往汉化下载界面](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)
