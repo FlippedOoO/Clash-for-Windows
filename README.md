@@ -102,19 +102,3 @@
       6. 本软件不提供技术支持，对因用户使用本软件而造成的任何直接或间接损失，包括但不限于财产损失、数据丢失及其他形式的损失不承担任何责任。
 </details>
 
-***
-### 快速导航
-[前往汉化下载界面](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases)
-
-[前往下载机场引流推广版 (去广告和更新检测)](https://github.com/Z-Siqi/CFW-custom-made)
-
-[前往原版Clash for Windows下载界面](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-
-#### 能够解压7z格式的软件
-
-[NanaZip](https://github.com/M2Team/NanaZip) *(兼容Windows11)*
-
-[7-Zip](https://www.7-zip.org/)
-
-[WinRAR](https://www.rarlab.com/)
-
